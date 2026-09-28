@@ -26,6 +26,12 @@ npm install
   ```bash
   npm install react-icons
   ```
+- **Boxicons:**
+  - Additional icon library to obtain icons not found in react-icons.
+  - To install use:
+  ```bash
+  npm install @boxicons/react
+  ```
 
 ## Project Structure 🗃️
 
